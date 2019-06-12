@@ -23,9 +23,9 @@ sass:
 # Site Data
 url: https://thorpham.github.io/
 baseurl: # the subpath of your site, e.g. /blog
-title: Thor Pham Blog
-description: "A blog about python,machine learning and deep learning"
-keywords: 'python,machine learning,deep learning,computer vision'
+title: Shan Blog
+description: "A blog about UX"
+keywords: ''
 author:
   name:
   job_title:
