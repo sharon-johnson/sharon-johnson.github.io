@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: https://thorpham.github.io/
+url: https://sharon-johnson.github.io/
 baseurl: # the subpath of your site, e.g. /blog
 title: Shan Blog
 description: "A blog about UX"
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Thor Pham</h1>
+  section1: <h1>Shan</h1>
   section2: <h2>A blog about python,machine learning and deep learning</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ThorPham" title="View on GitHub"></a></div>
 blog:
